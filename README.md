@@ -1,4 +1,4 @@
-Sure! Here is a sample `README.md` file for the `EventDispatcher` project.
+
 
 ### README.md
 
